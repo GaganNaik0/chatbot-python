@@ -1,2 +1,14 @@
-# chatbot-python
-# 👋 Hi, I'm Gagan  🤖 I built a chatbot using Python  ## 🚀 Projects 👉 Chatbot GUI: https://github.com/GaganNaik0/chatbot-python  ## 🧠 Currently Learning - Python - Japanese 🇯🇵  ## 💻 Skills - Basic Python - Tkinter (GUI)  ## ⚡ About Me I like building simple projects and improving step by step.
+# 🤖 Chatbot GUI
+
+A simple chatbot built using Python and Tkinter.
+
+## 🚀 Features
+- Chat interface
+- Dark theme UI
+- Basic conversation system
+
+## ▶️ Run
+python chatbot_gui.py
+
+## 💻 Source Code
+👉 [View Code](chatbot_gui.py)
